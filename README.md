@@ -1,6 +1,7 @@
 # bazier-rope
 # Interactive Bézier Rope Simulation
-
+https://tanvi515.github.io/bazier-rope/ 
+##live demo
 ## Overview
 This project implements a real-time interactive cubic Bézier curve that behaves like a springy rope. The curve reacts smoothly to mouse movement and visualizes both control points and tangent vectors.
 
